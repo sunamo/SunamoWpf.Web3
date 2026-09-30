@@ -32,6 +32,5 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.4258.31" />
     <PackageReference Include="HtmlAgilityPack" Version="1.12.4" />
-    <PackageReference Include="SunamoInterfaces" Version="*" />
   </ItemGroup>
 </Project>
