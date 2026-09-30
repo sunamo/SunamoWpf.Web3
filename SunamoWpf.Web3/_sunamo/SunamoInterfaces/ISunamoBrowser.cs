@@ -1,4 +1,4 @@
-namespace SunamoWpf.Web3.Internal;
+namespace SunamoWpf.Web3._sunamo;
 
 /// <summary>
 /// Interface for browser control operations.
